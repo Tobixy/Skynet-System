@@ -2,11 +2,11 @@ import Skynet_System.config as Config
 
 
   # REQUIRED
-    API_ID_KEY = "draj is op"
-    API_HASH_KEY = "lol dal isee "  
-    STRING_SESSION = "ssyour"
-    Skynet = ""
-    ENFORCERS = ""
-    Skynet_logs = ""
-    Skynet_approved_logs = ""
-    GBAN_MSG_LOGS = ""
+    API_ID_KEY = "28374181"
+    API_HASH_KEY = "00b7ca7f535e816590db39e76f85d0c7"  
+    STRING_SESSION = "1BVtsOJMBuzKr7bB1VVSDm-i2bC6PutIDylBPMevm2RHOmDuysE-xu06blH_E3KDXQmEuxvN9yvMpvB2NLBoPpODu1lQI1PXjBkyXKuEcLorkDTcmDhHsqkjVh9biTW73Q8Mwnbh4DvhbNlmhkXzkV7TZjINH655oRgCuSddnAom5GPmzTiJMgaE8v9UUAL9qa_6SCEcGTInHGBWRRtZidbuPunBce-6KAG0By064u0rtL1gHluDgNkCDevuo3kX8pnm4ILmgSazCHN29Pm_RaIEiPM66uch9lfxPM2uHJGdWoBE4v_X9NCC8z9ph0JbX3rpv69ulo6Gv94dEC2abJZrlVibTFiU="
+    Skynet = "SKYNET"
+    ENFORCERS = "5715764478 5348193047"
+    Skynet_logs = "-1001835086294"
+    Skynet_approved_logs = "-1001835086294"
+    GBAN_MSG_LOGS = "-1001835086294"
