@@ -7,10 +7,10 @@ Skynet_logs: [str, int] = -1001293004442
 Skynet_approved_logs: [str, int] = -1001274776877
 GBAN_MSG_LOGS: [str, int] = None
 BOT_TOKEN: str = "6339781130:AAEw2dHjSrkKaytBHDXBzr5Y9c2lkhZgLRw"
-Skynet = data["SKYNET"]
-INSPECTORS = data["5715764478"]
-DEVELOPERS = data["5715764478"]
-MONGO_DB_URL: str
+Skynet = ["SKYNET"]
+INSPECTORS = ["5715764478"]
+DEVELOPERS = ["5715764478"]
+MONGO_DB_URL: str =
 "mongodb+srv://EXONTESTMONGO:EXONTESTMONGO@cluster0.bviw7ic.mongodb.net/?retryWrites=true&w=majority"
    
    
